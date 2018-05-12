@@ -1,0 +1,43 @@
+_repo: The-life-and-teaching-of-Karl-Marx_37290
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Stenning, H. J. (Henry James)
+    alias: Stenning, Henry James
+    birthdate: 1889
+    gutenberg_agent_id: '24787'
+    url: http://www.gutenberg.org/2009/agents/24787
+  - agent_name: Partington, T. C.
+    gutenberg_agent_id: '42972'
+    url: http://www.gutenberg.org/2009/agents/42972
+covers:
+- cover_type: archival
+  image_path: 37290-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beer, Max
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '38750'
+    url: http://www.gutenberg.org/2009/agents/38750
+description: First published in English in 1921, this work was originally written
+  by renowned Marxist historian Max Beer to commemorate the centenary of Marx's birth.
+  It is a definitive biography, full of interesting personal details and a clear and
+  comprehensive account of Marx's economic and historical doctrines A special feature
+  of this unique work is the new light thrown on Marx's attitude to the ""Dictatorship
+  of the Proletariat"" and Bolshevist methods generally.
+gutenberg_issued: '2011-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37290'
+  lccn: '22018875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Marx, Karl, 1818-1883'
+- !lcsh 'Socialism'
+title: The life and teaching of Karl Marx
+url: http://www.gutenberg.org/ebooks/37290
